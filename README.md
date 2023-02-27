@@ -1,11 +1,11 @@
-## comunicazione_udp_sakir_loris
+# comunicazione_udp_sakir_loris
 
 breve descrizione del codice
 
-# ClientMain
+## ClientMain
 Il client crea un messaggio e lo invia al server
 
 
-# ServerMain
+## ServerMain
 
 Il server crea un socket, legge il pacchetto che riceve e lo stampa a schermo
